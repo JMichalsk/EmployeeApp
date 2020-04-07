@@ -1,0 +1,11 @@
+C:\Users\Jula\source\repos\EmployeeApp\EmployeeApp.Infrastructure\bin\Debug\netcoreapp3.1\EmployeeApp.Infrastructure.deps.json
+C:\Users\Jula\source\repos\EmployeeApp\EmployeeApp.Infrastructure\bin\Debug\netcoreapp3.1\EmployeeApp.Infrastructure.dll
+C:\Users\Jula\source\repos\EmployeeApp\EmployeeApp.Infrastructure\obj\Debug\netcoreapp3.1\EmployeeApp.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Jula\source\repos\EmployeeApp\EmployeeApp.Infrastructure\obj\Debug\netcoreapp3.1\EmployeeApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Jula\source\repos\EmployeeApp\EmployeeApp.Infrastructure\obj\Debug\netcoreapp3.1\EmployeeApp.Infrastructure.AssemblyInfo.cs
+C:\Users\Jula\source\repos\EmployeeApp\EmployeeApp.Infrastructure\bin\Debug\netcoreapp3.1\EmployeeApp.Infrastructure.pdb
+C:\Users\Jula\source\repos\EmployeeApp\EmployeeApp.Infrastructure\bin\Debug\netcoreapp3.1\EmployeeApp.Domain.dll
+C:\Users\Jula\source\repos\EmployeeApp\EmployeeApp.Infrastructure\bin\Debug\netcoreapp3.1\EmployeeApp.Domain.pdb
+C:\Users\Jula\source\repos\EmployeeApp\EmployeeApp.Infrastructure\obj\Debug\netcoreapp3.1\EmployeeApp.Infrastructure.csproj.CopyComplete
+C:\Users\Jula\source\repos\EmployeeApp\EmployeeApp.Infrastructure\obj\Debug\netcoreapp3.1\EmployeeApp.Infrastructure.dll
+C:\Users\Jula\source\repos\EmployeeApp\EmployeeApp.Infrastructure\obj\Debug\netcoreapp3.1\EmployeeApp.Infrastructure.pdb

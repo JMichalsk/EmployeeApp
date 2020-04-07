@@ -1,0 +1,8 @@
+C:\Users\Jula\source\repos\EmployeeApp\EmployeeApp.Domain\bin\Debug\netcoreapp3.1\EmployeeApp.Domain.deps.json
+C:\Users\Jula\source\repos\EmployeeApp\EmployeeApp.Domain\bin\Debug\netcoreapp3.1\EmployeeApp.Domain.dll
+C:\Users\Jula\source\repos\EmployeeApp\EmployeeApp.Domain\bin\Debug\netcoreapp3.1\EmployeeApp.Domain.pdb
+C:\Users\Jula\source\repos\EmployeeApp\EmployeeApp.Domain\obj\Debug\netcoreapp3.1\EmployeeApp.Domain.csprojAssemblyReference.cache
+C:\Users\Jula\source\repos\EmployeeApp\EmployeeApp.Domain\obj\Debug\netcoreapp3.1\EmployeeApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Jula\source\repos\EmployeeApp\EmployeeApp.Domain\obj\Debug\netcoreapp3.1\EmployeeApp.Domain.AssemblyInfo.cs
+C:\Users\Jula\source\repos\EmployeeApp\EmployeeApp.Domain\obj\Debug\netcoreapp3.1\EmployeeApp.Domain.dll
+C:\Users\Jula\source\repos\EmployeeApp\EmployeeApp.Domain\obj\Debug\netcoreapp3.1\EmployeeApp.Domain.pdb
